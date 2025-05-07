@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sales Dashboard</title>
+  <link rel="stylesheet" href="styles.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body class="light-mode">
+  <button class="theme-toggle">Toggle Theme</button>
+  <div class="container">
+    <header>
+      <h1> Sales Dashboard</h1>
+    </header>
+
+    <section class="filters">
+      <div class="filter-group">
+        <label for="start">Start Date:</label>
+        <input type="date" id="start" />
+      </div>
+      <div class="filter-group">
+        <label for="end">End Date:</label>
+        <input type="date" id="end" />
+      </div>
+      <button id="filterBtn" class="btn-primary">Filter</button>
+    </section>
+
+    <section class="charts">
+      <div class="chart-container">
+        <h2>Daily Sales</h2>
+        <canvas id="dailySalesChart"></canvas>
+      </div>
+      <div class="chart-container">
+        <h2>Top 5 Products</h2>
+        <canvas id="topProductsChart"></canvas>
+      </div>
+    </section>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
