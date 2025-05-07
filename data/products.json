@@ -1,0 +1,23 @@
+[
+    { "id": 1, "name": "Wireless Mouse", "category": "Electronics" },
+    { "id": 2, "name": "Bluetooth Speaker", "category": "Electronics" },
+    { "id": 3, "name": "Laptop Stand", "category": "Office Supplies" },
+    { "id": 4, "name": "Notebook", "category": "Office Supplies" },
+    { "id": 5, "name": "Water Bottle", "category": "Lifestyle" },
+    { "id": 6, "name": "Fitness Tracker", "category": "Wearables" },
+    { "id": 7, "name": "LED Monitor", "category": "Electronics" },
+    { "id": 8, "name": "Gaming Keyboard", "category": "Electronics" },
+    { "id": 9, "name": "Desk Lamp", "category": "Office Supplies" },
+    { "id": 10, "name": "Running Shoes", "category": "Footwear" },
+    { "id": 11, "name": "Yoga Mat", "category": "Lifestyle" },
+    { "id": 12, "name": "USB-C Cable", "category": "Electronics" },
+    { "id": 13, "name": "Backpack", "category": "Lifestyle" },
+    { "id": 14, "name": "Smart Watch", "category": "Wearables" },
+    { "id": 15, "name": "Sunglasses", "category": "Lifestyle" },
+    { "id": 16, "name": "Wireless Earbuds", "category": "Electronics" },
+    { "id": 17, "name": "Coffee Mug", "category": "Lifestyle" },
+    { "id": 18, "name": "Whiteboard Markers", "category": "Office Supplies" },
+    { "id": 19, "name": "Office Chair", "category": "Office Supplies" },
+    { "id": 20, "name": "Tablet", "category": "Electronics" }
+  ]
+  

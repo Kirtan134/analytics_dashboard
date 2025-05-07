@@ -1,0 +1,28 @@
+[
+    { "id": 1, "product_id": 1, "quantity": 5, "date": "2025-04-27" },
+    { "id": 2, "product_id": 2, "quantity": 3, "date": "2025-04-27" },
+    { "id": 3, "product_id": 3, "quantity": 2, "date": "2025-04-28" },
+    { "id": 4, "product_id": 4, "quantity": 4, "date": "2025-04-28" },
+    { "id": 5, "product_id": 5, "quantity": 7, "date": "2025-04-29" },
+    { "id": 6, "product_id": 1, "quantity": 6, "date": "2025-04-29" },
+    { "id": 7, "product_id": 6, "quantity": 5, "date": "2025-04-30" },
+    { "id": 8, "product_id": 7, "quantity": 2, "date": "2025-04-30" },
+    { "id": 9, "product_id": 8, "quantity": 4, "date": "2025-05-01" },
+    { "id": 10, "product_id": 9, "quantity": 3, "date": "2025-05-01" },
+    { "id": 11, "product_id": 10, "quantity": 5, "date": "2025-05-02" },
+    { "id": 12, "product_id": 2, "quantity": 2, "date": "2025-05-02" },
+    { "id": 13, "product_id": 11, "quantity": 4, "date": "2025-05-03" },
+    { "id": 14, "product_id": 12, "quantity": 3, "date": "2025-05-03" },
+    { "id": 15, "product_id": 13, "quantity": 5, "date": "2025-05-04" },
+    { "id": 16, "product_id": 3, "quantity": 1, "date": "2025-05-04" },
+    { "id": 17, "product_id": 14, "quantity": 6, "date": "2025-05-05" },
+    { "id": 18, "product_id": 4, "quantity": 3, "date": "2025-05-05" },
+    { "id": 19, "product_id": 15, "quantity": 4, "date": "2025-05-06" },
+    { "id": 20, "product_id": 5, "quantity": 3, "date": "2025-05-06" },
+    { "id": 21, "product_id": 16, "quantity": 7, "date": "2025-05-06" },
+    { "id": 22, "product_id": 17, "quantity": 2, "date": "2025-05-07" },
+    { "id": 23, "product_id": 18, "quantity": 1, "date": "2025-05-07" },
+    { "id": 24, "product_id": 19, "quantity": 5, "date": "2025-05-07" },
+    { "id": 25, "product_id": 20, "quantity": 2, "date": "2025-05-07" }
+  ]
+  
